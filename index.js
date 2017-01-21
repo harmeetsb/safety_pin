@@ -35,18 +35,8 @@ map.on('load', function() {
                 "features": [{
                     "type": "Feature",
                     "properties": {
-                        "description": "Crime scene",
-                        "icon": "theatre"
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [-77.038659, 38.931567]
-                    }
-                },  {
-                    "type": "Feature",
-                    "properties": {
                         "description": "Crime Scene",
-                        "icon": "music"
+                        "icon": "star"
                     },
                     "geometry": {
                         "type": "Point",

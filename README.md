@@ -1,2 +1,5 @@
-# safety_pin
-This is a basic program that plots publically available crime data onto a map of the United States of America.
+# safety_pin (Hack GT)
+
+## Description
+
+Uses MapBox and publicly available government data on crime (see resources) to plot crime data onto a map in a web application.
